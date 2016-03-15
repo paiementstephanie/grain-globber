@@ -5,6 +5,7 @@ var grains = [
     desc: 'First cultivated in the valleys of Paraguay.'
   },
   {
+
     name: 'Beans',
     img: 'beans.jpg',
     desc: 'A summer crop that needs warm temperatures.'
